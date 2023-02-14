@@ -1,0 +1,2 @@
+ 101 Pencil 5 2
+ 102 eraser 3 1
